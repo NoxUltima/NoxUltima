@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @NoxUltima. Nothing special about me, just a regular college guy
 - 👀 I’m interested in functional programming, typography, programming languages, linguistics, music and most of all, I write!
-- 🌱 I’m currently learning TypeScript, React and even more Python
-- 💞️ I’m working on documentation for my own programming language called Nyx (name not finalized yet)
+  - My favorite language is Scala
+- 🌱 I’m currently learning TypeScript, React, Angular
+- 💞️ I’m working on:
+  - **Nyx**, soon to be my first programming language
+  - A new book
 - 📫 I remain private until I'm a bit older.
 
 <!---
