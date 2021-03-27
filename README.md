@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoxUltima. Nothing special about me, just a regular college guy
 - 👀 I’m interested in functional programming, typography, programming languages, linguistics, music and most of all, I write!
-  - My favorite language so far is Scala and ReasonML
+  - My favorite languages so far are Scala, Haskell and ReasonML
 - 🌱 I’m currently learning TypeScript, React, Angular
 - 💞️ I’m working on:
   - **Nyx**, soon to be my first programming language
