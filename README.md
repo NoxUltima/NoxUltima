@@ -5,7 +5,7 @@
 - 💞️ I’m working on:
   - **Nyx**, soon to be my first programming language
   - A new book
-- 📫 I remain private until I'm a bit older.
+- 📫 No.
 
 <!---
 NoxUltima/NoxUltima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
