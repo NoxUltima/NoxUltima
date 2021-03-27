@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoxUltima
 - 👀 I’m interested in FP, typography, programming, linguistics, music and writing
 - 🌱 I’m currently learning TypeScript, React and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working on documentation for my own programming language called Nyx (name not finalized yet)
 - 📫 How to reach me ...
 
 <!---
